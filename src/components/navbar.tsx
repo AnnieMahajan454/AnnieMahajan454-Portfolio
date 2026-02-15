@@ -35,7 +35,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/AnnieMahajan_Resume.pdf"
             download
             className="border border-purple-400 px-4 py-2 rounded-xl text-purple-300 hover:bg-purple-600 hover:text-white transition"
           >
