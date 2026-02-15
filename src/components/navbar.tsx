@@ -35,12 +35,13 @@ const Navbar = () => {
           </a>
 
           <a
-            href="/AnnieMahajan_Resume.pdf"
-            download
-            className="border border-purple-400 px-4 py-2 rounded-xl text-purple-300 hover:bg-purple-600 hover:text-white transition"
-          >
-            Resume
-          </a>
+  href="/AnnieMahajan_Resume.pdf"
+  download
+  className="border border-purple-400 px-4 py-2 rounded-xl text-purple-300 hover:bg-purple-500 hover:text-white transition"
+>
+  Resume
+</a>
+
 
         </div>
       </div>
